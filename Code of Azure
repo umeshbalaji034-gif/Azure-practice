@@ -1,3 +1,0 @@
-resource "azurerm_resource_group" "umesh_rg" {
-name = "umesh"
-location = "eastus"
